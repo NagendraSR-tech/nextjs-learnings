@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - Project Structure
 - React Server Components
 - Routing
+- Routing Navigation
+- Route Handlers - API Route Handlers
 
 First, run the development server:
 
