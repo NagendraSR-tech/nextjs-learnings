@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - Routing
 - Routing Navigation
 - Route Handlers - API Route Handlers
+- Data Fetching - fetching and displaying data on both the client and server side
 
 First, run the development server:
 
