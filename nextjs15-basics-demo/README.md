@@ -8,6 +8,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - Route Handlers - API Route Handlers
 - Data Fetching - fetching and displaying data on both the client and server side
 
+- Server Actions - Update data with server Action (updating data, handle form submissions, modify database)
+                   Created server action that securely add new user to API and using it within component
+                   handled form submission run server side code and update the page automatically
+
 First, run the development server:
 
 ```bash
