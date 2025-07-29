@@ -12,6 +12,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
                    Created server action that securely add new user to API and using it within component
                    handled form submission run server side code and update the page automatically
 
+- Authentication - Authentication with Clerk
+                    1. Sign up 
+                    2. Sign In
+                    3. Manage Account
+                    4. Show UI elements based on auth status
+                    5. Protech routes based on Auth Status
+                    6. Read session and user data
+                    7. Sign out
+                    
 First, run the development server:
 
 ```bash
